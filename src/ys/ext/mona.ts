@@ -57,6 +57,8 @@ const keymap = {
         FlowerOfParadiseLost: "FlowerOfParadiseLost",
         NymphsDream: "NymphsDream",
         VourukashasGlow: "VourukashasGlow",
+        MarechausseeHunter: "MarechausseeHunter",
+        GoldenTroupe: "GoldenTroupe",
     },
     affix: <{ [key: string]: string }>{
         hp: "lifeStatic",
